@@ -14,7 +14,9 @@ questions=\
     "es ist(informal)":"it is",
     "Freund":"friend",
     "blue":"Blau",
-    "New Zealand":"Neuseeland"
+    "New Zealand":"Neuseeland",
+    "Schwester":"sister",
+    "ich habe eine Katze":"I have a cat"
     #add more Qs here
 }
 
