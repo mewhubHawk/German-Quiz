@@ -13,10 +13,11 @@ questions=\
     "Katze":"cat",
     "es ist(informal)":"it is",
     "Freund":"friend",
-    "blue":"Blau",
+    "blue":"blau",
     "New Zealand":"Neuseeland",
     "Schwester":"sister",
-    "ich habe eine Katze":"I have a cat"
+    "ich habe eine Katze":"I have a cat",
+    "Ich habe eine schwarze Katze, die süß ist":"I have a black cat, who is cute"
     #add more Qs here
 }
 
